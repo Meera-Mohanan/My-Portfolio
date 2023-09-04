@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Meera-Mohanan/My-Portfolio/static/css/main.8f96de8f.css",
+    "main.css": "/Meera-Mohanan/My-Portfolio/static/css/main.613160eb.css",
     "main.js": "/Meera-Mohanan/My-Portfolio/static/js/main.4f923b58.js",
     "static/media/Screen_Shot_Weather_Dashboard.png": "/Meera-Mohanan/My-Portfolio/static/media/Screen_Shot_Weather_Dashboard.83df8a16413a3cdb6dd8.png",
     "static/media/profilepic.jpg": "/Meera-Mohanan/My-Portfolio/static/media/profilepic.e6e5768398361f54a7e6.jpg",
@@ -15,11 +15,11 @@
     "static/media/Screen-Shot-Work-Day-Scheduler.png": "/Meera-Mohanan/My-Portfolio/static/media/Screen-Shot-Work-Day-Scheduler.04b5a00951a00a45e86d.png",
     "static/media/Screenshot-noteTaker.png": "/Meera-Mohanan/My-Portfolio/static/media/Screenshot-noteTaker.513c943937c327293c05.png",
     "index.html": "/Meera-Mohanan/My-Portfolio/index.html",
-    "main.8f96de8f.css.map": "/Meera-Mohanan/My-Portfolio/static/css/main.8f96de8f.css.map",
+    "main.613160eb.css.map": "/Meera-Mohanan/My-Portfolio/static/css/main.613160eb.css.map",
     "main.4f923b58.js.map": "/Meera-Mohanan/My-Portfolio/static/js/main.4f923b58.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f96de8f.css",
+    "static/css/main.613160eb.css",
     "static/js/main.4f923b58.js"
   ]
 }
